@@ -56,7 +56,7 @@ Documento.
 
 > Primero comparar entre los servicios y tratos que dan otras organizaciones.
 > Luego investigar mas cobre las necesidades del usuario y del cliente.
-> Mejorar la calidad en que el el cliente tiene que darle al usuario.
+> Mejorar la calidad en que el el cliente tiene que darle al usuario    .
 
 
 
